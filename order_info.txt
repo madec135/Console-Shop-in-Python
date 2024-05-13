@@ -1,0 +1,3 @@
+Product ordered: Gigabyte Quantity ordered: 10 Ordering client: Michal Order price: 5000
+Product ordered: Intel Core i7 Quantity ordered: 1 Ordering client: Malcom Order price: 3000
+Product ordered: RTX 4070 Quantity ordered: 2 Ordering client: Michael Order price: 10000
